@@ -1,3 +1,6 @@
 export const environment = {
-  production: true
+  production: false,
+  userKey: "userProfile",
+  tokenKey: "authToken",
+  apiBaseURL: ""
 };
